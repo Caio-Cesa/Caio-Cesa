@@ -78,7 +78,7 @@
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Caio-Cesa&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -95,21 +95,21 @@
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caio-Cesa&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caio-Cesa&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caio-Cesa&theme=github_dark"/>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caio-Cesa&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caio-Cesa&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=Caio-Cesa&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 <tr>
