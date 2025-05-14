@@ -177,7 +177,7 @@
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
 <br />
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Caio-Cesa"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
