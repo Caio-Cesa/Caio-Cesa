@@ -56,7 +56,7 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+ <!---<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>-->
  <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
@@ -132,6 +132,7 @@
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
+ <!---
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/Java-Expert-blue"/>
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
@@ -162,12 +163,15 @@
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
-<br />
+<br />-->
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Caio-Cesa"/>
+<!---
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
+-->
+
 
 -----
