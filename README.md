@@ -60,9 +60,9 @@
  <td align="center">:watch: <a href="https://wakatime.com/@caiocesar">WakaTime</a></td>
 </tr>
 <tr>
-<td>
+<!---<td>
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
+</td>-->
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Caio-Cesa&theme=dark&layout=compact"/>
 </td>
