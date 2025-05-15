@@ -57,7 +57,7 @@
 <table>
 <tr>
  <!---<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>-->
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@caiocesar">WakaTime</a></td>
 </tr>
 <tr>
 <td>
