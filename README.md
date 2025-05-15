@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Caio-Cesa/Caio-Cesa/blob/main/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Caio-Cesa/Caio-Cesa/blob/main/header.png?raw=true"/>
 </div>
 
 -----
