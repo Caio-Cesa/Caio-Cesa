@@ -41,13 +41,13 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caio-Cesa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Caio-Cesa&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Cesa&theme=dark&locale=pt-br&langs_count=7"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Caio-Cesa&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Cesa&layout=pie&theme=dark&locale=pt-br"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Caio-Cesa&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -65,8 +65,6 @@
 </td>-->
 <td>
 <img src="https://helio-github-stats.vercel.app/api/wakatime?username=caiocesar&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiocesar&theme=dark&layout=compact"/>
-<img src="https://wakatime.com/share/@caiocesar/ebec1b71-f6a6-436a-a84d-1c2603e9a768.svg"/>
 </td>
 </tr>
 <tr>
