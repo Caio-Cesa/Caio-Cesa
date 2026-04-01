@@ -56,21 +56,13 @@
 </table>
 <table>
 <tr>
- <!---<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>-->
- <td align="center">:watch: <a href="https://wakatime.com/@caiocesar">WakaTime</a></td>
+<td align="center">:watch: <a href="https://wakatime.com/@caiocesar">WakaTime</a></td>
 </tr>
 <tr>
-<!---<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>-->
 <td>
 <img src="https://helio-github-stats.vercel.app/api/wakatime?username=caiocesar&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
 </table>
 <table>
 <tr>
