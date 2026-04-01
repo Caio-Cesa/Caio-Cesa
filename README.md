@@ -64,6 +64,7 @@
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>-->
 <td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=caiocesar&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiocesar&theme=dark&layout=compact"/>
 <img src="https://wakatime.com/share/@caiocesar/ebec1b71-f6a6-436a-a84d-1c2603e9a768.svg"/>
 </td>
