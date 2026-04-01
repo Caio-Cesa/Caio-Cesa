@@ -65,7 +65,7 @@
 </td>-->
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiocesar&theme=dark&layout=compact"/>
-<figure><embed src="https://wakatime.com/share/@caiocesar/ebec1b71-f6a6-436a-a84d-1c2603e9a768.svg"></embed></figure>
+<img src="https://wakatime.com/share/@caiocesar/ebec1b71-f6a6-436a-a84d-1c2603e9a768.svg"/>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caio-Cesa&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caio-Cesa&theme=github_dark&utcOffset=-3"/>
 </td>
 <td>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caio-Cesa&theme=github_dark"/>
