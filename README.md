@@ -65,6 +65,7 @@
 </td>-->
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiocesar&theme=dark&layout=compact"/>
+<figure><embed src="https://wakatime.com/share/@caiocesar/ebec1b71-f6a6-436a-a84d-1c2603e9a768.svg"></embed></figure>
 </td>
 </tr>
 <tr>
